@@ -391,6 +391,7 @@ plt.title("Percentage of Activity in Minutes")
 plt.tight_layout()
 plt.show()
 ```
+![Screenshot (5)](https://github.com/Germs123/Bellabeat-Health-Tracker-Analysis/assets/115740059/199e1499-5372-4c06-b2a3-b6aeca35a751)
 
 Percentage of Activity in Minutes
 
