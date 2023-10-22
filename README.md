@@ -315,6 +315,8 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
+![Screenshot (3)](https://github.com/Germs123/Bellabeat-Health-Tracker-Analysis/assets/115740059/407d8b5d-cc36-43b4-8a7f-55742160a801)
+
 Calories burned for every step taken
 From the scatter plot, we discovered that:
 
