@@ -326,9 +326,9 @@ From the scatter plot, we discovered that:
 
 3. Noted a few outliers:
 
-Zero steps with zero to minimal calories burned.
-1 observation of > 35,000 steps with < 3,000 calories burned.
-Deduced that outliers could be due to natural variation of data, change in user's usage or errors in data collection (ie. miscalculations, data contamination or human error).
+1. Zero steps with zero to minimal calories burned.
+2. 1 observation of > 35,000 steps with < 3,000 calories burned.
+3. Deduced that outliers could be due to natural variation of data, change in user's usage or errors in data collection (ie. miscalculations, data contamination or human error).
 ```HTML
 # import matplotlib package
 import matplotlib.pyplot as plt
@@ -356,6 +356,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+![Screenshot (4)](https://github.com/Germs123/Bellabeat-Health-Tracker-Analysis/assets/115740059/5805b1a2-5f58-4908-9a47-426e72e17010)
 
 Calories burned for every hour logged
 The scatter plot is showing:
