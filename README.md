@@ -282,6 +282,7 @@ plt.title("No. of times users logged in app across the week")
 plt.grid(True)
 plt.show()
 ```
+![Screenshot (2)](https://github.com/Germs123/Bellabeat-Health-Tracker-Analysis/assets/115740059/d7ca7b79-88d1-4cb2-a13a-4ed63d56d2f8)
 
 Frequency of usage across the week
 In this histogram, we are looking at the frequency of FitBit app usage in terms of days of the week.
